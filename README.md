@@ -104,10 +104,10 @@ The resulting explanations are visualized using:
 
 ```text
 .
-├── DeepFake_Audio_Detection.ipynb
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
+├── notebooks/
 └── results/
 ```
 
