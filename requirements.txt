@@ -1,0 +1,9 @@
+torch
+transformers
+huggingface-hub
+kagglehub
+librosa
+numpy
+scipy
+scikit-learn
+matplotlib
