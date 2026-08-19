@@ -123,7 +123,7 @@ pip install -r requirements.txt
 
 The notebook downloads the required ASVspoof datasets using `kagglehub`.
 
-The training section can be executed to reproduce the model training process.
+The training section contains the complete fine-tuning pipeline. Full training requires the ASVspoof datasets and a CUDA-capable GPU.
 
 The explainability section requires a locally available fine-tuned WavLM checkpoint. **Pretrained/fine-tuned checkpoints are not included in this repository.**
 
